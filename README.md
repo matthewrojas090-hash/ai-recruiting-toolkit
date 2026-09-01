@@ -14,12 +14,19 @@ This toolkit is informed by 15+ years of recruiting experience and leadership ac
 
 | Workflow | Recruiting problem | Output |
 |---|---|---|
+| [Recruiter Phone Screen Copilot](prompts/recruiter-phone-screen-copilot.md) | Resumes, role criteria, and interview notes are difficult to translate into a consistent technical screen | Three tailored questions with anchored rubrics, plus a structured RPS assessment |
 | [Hiring-manager intake synthesis](prompts/hiring-manager-intake.md) | Intake notes are inconsistent or incomplete | Structured search brief and calibration questions |
 | [Candidate outreach generator](prompts/candidate-outreach.md) | Outreach becomes generic at scale | Personalized, evidence-based message |
 | [Interview debrief synthesis](prompts/interview-debrief.md) | Feedback is scattered or vague | Competency-aligned summary with gaps flagged |
 | [Responsible-AI checklist](governance/responsible-ai-checklist.md) | AI creates privacy, bias, or accuracy risks | Human-review and data-protection controls |
 
-A fictional [sample intake](examples/sample-intake.md) is included so the workflows can be tested without candidate or employer data.
+A fictional [Senior Software Engineering Manager phone-screen example](examples/recruiter-phone-screen-example.md) demonstrates the new workflow. A separate fictional [sample intake](examples/sample-intake.md) supports testing without candidate or employer data.
+
+## Recruiter Phone Screen Copilot
+
+The first end-to-end workflow accepts a resume and job description, identifies the three most important areas to validate, and always includes a role-relevant AI fluency question. Each question includes follow-up probes and an anchored four-level rubric.
+
+After the screen, the recruiter can add raw notes or a transcript. The same workflow produces a structured RPS assessment, maps evidence to job requirements, flags gaps and contradictions, and provides an advisory recommendation for human review.
 
 ## Recommended workflow
 
