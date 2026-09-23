@@ -14,6 +14,7 @@ This toolkit is informed by 15+ years of recruiting experience and leadership ac
 
 | Workflow | Recruiting problem | Output |
 |---|---|---|
+| [Technical Role Learning Sprint](prompts/technical-role-learning-sprint.md) | Recruiters need to learn unfamiliar technical roles quickly | Plain-English role guide, intake questions, candidate probes, sourcing foundation, and learning plan |
 | [Recruiter Phone Screen Copilot](prompts/recruiter-phone-screen-copilot.md) | Resumes, role criteria, and interview notes are difficult to translate into a consistent technical screen | Three tailored questions with anchored rubrics, plus a structured RPS assessment |
 | [Hiring-manager intake synthesis](prompts/hiring-manager-intake.md) | Intake notes are inconsistent or incomplete | Structured search brief and calibration questions |
 | [Candidate outreach generator](prompts/candidate-outreach.md) | Outreach becomes generic at scale | Personalized, evidence-based message |
