@@ -14,6 +14,7 @@ This toolkit is informed by 15+ years of recruiting experience and leadership ac
 
 | Workflow | Recruiting problem | Output |
 |---|---|---|
+| [AI Interview Coverage Planner](prompts/interview-coverage-planner.md) | Interview loops need clear ownership and complete coverage of approved hiring criteria | Coverage matrix, session plan, interviewer briefs, candidate-facing agenda, and gap review |
 | [AI Hiring Funnel Diagnostic](prompts/hiring-funnel-diagnostic.md) | Funnel numbers need validation and context before a search reset | Cohort checks, conversion analysis, investigation questions, and an action plan; supports manual inputs, approved CSV uploads, and ATS integration planning |
 | [Technical Role Learning Sprint](prompts/technical-role-learning-sprint.md) | Recruiters need to learn unfamiliar technical roles quickly | Plain-English role guide, intake questions, candidate probes, sourcing foundation, and learning plan |
 | [Recruiter Phone Screen Copilot](prompts/recruiter-phone-screen-copilot.md) | Resumes, role criteria, and interview notes are difficult to translate into a consistent technical screen | Three tailored questions with anchored rubrics, plus a structured RPS assessment |
