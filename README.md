@@ -14,6 +14,7 @@ This toolkit is informed by 15+ years of recruiting experience and leadership ac
 
 | Workflow | Recruiting problem | Output |
 |---|---|---|
+| [AI Interview Schedule Recovery Planner](prompts/interview-schedule-recovery-planner.md) | A disrupted interview needs a replacement without losing required coverage | Recovery options, confirmation checklist, and recruiter-reviewed candidate note |
 | [AI Candidate Update and Commitment Planner](prompts/candidate-update-commitment-planner.md) | Candidate updates and communication promises need reliable follow-through | Commitment register, internal action plan, and recruiter-reviewed update drafts |
 | [AI Sourcing Experiment Planner](prompts/sourcing-experiment-planner.md) | Sourcing changes need a clear hypothesis and consistent measurement | Experiment plan, role-criteria map, measurement definitions, and evidence-based review |
 | [AI Interview Coverage Planner](prompts/interview-coverage-planner.md) | Interview loops need clear ownership and complete coverage of approved hiring criteria | Coverage matrix, session plan, interviewer briefs, candidate-facing agenda, and gap review |
